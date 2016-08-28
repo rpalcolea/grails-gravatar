@@ -2,7 +2,7 @@
 grails:
     profile: web-plugin
     codegen:
-        defaultPackage: gravatar
+        defaultPackage: rpalcolea.gravatar
     spring:
         transactionManagement:
             proxies: false
