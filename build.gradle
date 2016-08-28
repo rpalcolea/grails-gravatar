@@ -56,7 +56,7 @@ dependencies {
 }
 
 grailsPublish {
-    githubSlug = 'rpalcolea/grails-rpalcolea.gravatar'
+    githubSlug = 'rpalcolea/grails-gravatar'
     license {
         name = 'Apache-2.0'
     }
