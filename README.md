@@ -88,6 +88,10 @@ You can provide the following arguments:
   String defaultImage
 ```
 
+Acknowledgements
+-------
+This plugin contains original code and the ideas from the [Avatar Plugin](https://github.com/domix/avatarplugin) for Grails `1.x` by Domingo Suarez Torres (@domix) 
+
 License
 -------
 Apache 2
