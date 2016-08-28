@@ -1,0 +1,15 @@
+*.bak
+*.iml
+*.ipr
+*.iws
+*.log
+*.swp
+*.tmp
+/.classpath
+/.gradle
+/.idea
+/.project
+/.settings
+/build
+/classes
+/target
