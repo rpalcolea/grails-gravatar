@@ -70,7 +70,7 @@ You can provide the following arguments to the TagLib:
 ###GravatarUrlGenerator
 If you want to generate links without the use of the taglib, you can accomplish it by using `GravatarUrlGenerator` as follows:
 
-```
+```groovy
 GravatarUrlGenerator.generateUrl('roberto@perezalcolea.info')
 ```
 
