@@ -10,7 +10,7 @@ Gravatars allow users to configure an avatar to go with their email address at a
 Installation
 ------------
 Add the following dependencies in `build.gradle`
-```
+```groovy
 dependencies {
 ...
     compile 'rpalcolea.gravatar:gravatar:1.0.0'
@@ -82,7 +82,7 @@ https://www.gravatar.com/avatar/ae03f5244dfbbd216864590baacfd130?s=80&r=g
 
 You can provide the following arguments:
 
-```
+```groovy
   GravatarRating rating
   Integer size
   String defaultImage
