@@ -14,7 +14,6 @@ buildscript {
 version "1.0.1"
 group "rpalcolea.gravatar"
 
-sourceCompatibility = 1.7
 targetCompatibility = 1.7
 
 apply plugin:"eclipse"
