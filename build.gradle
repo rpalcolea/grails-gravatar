@@ -14,13 +14,15 @@ buildscript {
 version "1.0.1"
 group "rpalcolea.gravatar"
 
-targetCompatibility = 1.7
-
+apply plugin: 'java'
 apply plugin:"eclipse"
 apply plugin:"idea"
 apply plugin:"org.grails.grails-plugin"
 apply plugin:"org.grails.grails-plugin-publish"
 apply plugin:"org.grails.grails-gsp"
+
+sourceCompatibility = 1.7
+targetCompatibility = 1.7
 
 ext {
     grailsVersion = project.grailsVersion
