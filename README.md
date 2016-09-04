@@ -13,7 +13,7 @@ Add the following dependencies in `build.gradle`
 ```groovy
 dependencies {
 ...
-    compile 'rpalcolea.gravatar:gravatar:1.0.0'
+    compile 'rpalcolea.gravatar:gravatar:1.0.2'
 ...
 }
 ```
